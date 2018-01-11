@@ -77,7 +77,7 @@ npm test
 
 [![License][license-image]][license-url]
 
-[downloads-image]: https://img.shields.io/npm/@hspkg/mutate.svg?style=flat-square
+[downloads-image]: https://img.shields.io/npm/dt/@hspkg/mutate.svg?style=flat-square
 
 [npm-url]: https://npmjs.org/package/@hspkg/mutate
 [npm-image]: https://img.shields.io/npm/v/@hspkg/mutate.svg?style=flat-square
