@@ -75,15 +75,15 @@ npm test
 
 ## License
 
-MIT
+[![License][license-image]][license-url]
 
-[downloads-image]: https://img.shields.io/npm/@hspkg/mutate.svg
+[downloads-image]: https://img.shields.io/npm/@hspkg/mutate.svg?style=flat-square
 
 [npm-url]: https://npmjs.org/package/@hspkg/mutate
-[npm-image]: https://img.shields.io/npm/v/@hspkg/mutate.svg
+[npm-image]: https://img.shields.io/npm/v/@hspkg/mutate.svg?style=flat-square
 
 [travis-url]: https://travis-ci.org/int64ago/mutate
-[travis-image]: https://img.shields.io/travis/int64ago/mutate.svg
+[travis-image]: https://img.shields.io/travis/int64ago/mutate.svg?style=flat-square
 
 [license-url]: https://github.com/int64ago/mutate/blob/master/LICENSE
-[license-image]: https://img.shields.io/github/license/int64ago/mutate.svg
+[license-image]: https://img.shields.io/github/license/int64ago/mutate.svg?style=flat-square
