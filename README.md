@@ -46,7 +46,7 @@ console.log(mutate(source, 'hack', 'key4', 'key5', 'key6'));
 //   "key3": "test3",
 //   "key4": {
 //     "key5": {
-//       "key6": "Hello",
+//       "key6": "hack",
 //       "key7": "World"
 //     }
 //   }
@@ -60,7 +60,7 @@ console.log(mutate(source, 'hack', 'key4', 'key5', 'key8'));
 //     "key5": {
 //       "key6": "Hello",
 //       "key7": "World",
-//       "key7": "hack"
+//       "key8": "hack"
 //     }
 //   }
 // }
