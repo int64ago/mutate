@@ -82,8 +82,8 @@ npm test
 [npm-url]: https://npmjs.org/package/@hspkg/mutate
 [npm-image]: https://img.shields.io/npm/v/@hspkg/mutate.svg?style=flat-square
 
-[travis-url]: https://travis-ci.org/int64ago/mutate
-[travis-image]: https://img.shields.io/travis/int64ago/mutate.svg?style=flat-square
+[travis-url]: https://travis-ci.com/int64ago/mutate
+[travis-image]: https://img.shields.io/travis/com/int64ago/mutate.svg?style=flat-square
 
 [license-url]: https://github.com/int64ago/mutate/blob/master/LICENSE
 [license-image]: https://img.shields.io/github/license/int64ago/mutate.svg?style=flat-square
