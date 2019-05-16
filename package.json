@@ -3,7 +3,7 @@
   "version": "1.0.3",
   "description": "Modify object and return immutable object.",
   "main": "lib/index.js",
-  "files":[
+  "files": [
     "lib"
   ],
   "scripts": {
@@ -26,10 +26,10 @@
   },
   "homepage": "https://github.com/int64ago/mutate#readme",
   "devDependencies": {
-    "babel-cli": "^6.26.0",
-    "babel-core": "^6.26.0",
-    "babel-plugin-transform-object-rest-spread": "^6.26.0",
-    "babel-preset-env": "^1.6.1",
-    "jest": "^22.0.6"
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.4",
+    "@babel/plugin-proposal-object-rest-spread": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "jest": "^24.8.0"
   }
 }
